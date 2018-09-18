@@ -2,7 +2,7 @@
 
 import pilasengine
 
-pilas = pilasengine.iniciar ()
+pilas = pilasengine.iniciar()
 
 Fondo = pilas.fondos.Tarde()
 #Fondo.imagen = "./Imagenes/Laboratorioo.jpg"
